@@ -32,7 +32,7 @@ En raison de contraintes de temps, nous avons pu développer uniquement quelques
 
 Je souhaite exprimer ma gratitude envers mes deux collègues qui ont contribué à la réalisation de ce projet.
 
-[Malena Guallar](https://github.com/Malena-Guallar) et [Djihane B](https://github.com/DjihaneB)
+[Malena Guallar](https://github.com/Malena-Guallar) et [Guillaume Pagès](https://github.com/guillaume-pages)
 
 
 
